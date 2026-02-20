@@ -204,7 +204,7 @@
   # id: STSciDecanBand
   # name: ScientistsDecan
   # factionId: ScientistsDecan
-  # maxmMembers: 20
+  # maxMembers: 20
   # managingRankId: 3
   # hierarchy:
      # 1: sci_decan
