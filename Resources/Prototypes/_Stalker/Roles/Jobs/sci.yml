@@ -183,7 +183,7 @@
   id: STSciBand
   name: Scientists
   factionId: Scientists
-  maxMembers: 6
+  maxMembers: 11
   managingRankId: 2
   hierarchy:
     1: sci
@@ -204,7 +204,7 @@
   # id: STSciDecanBand
   # name: ScientistsDecan
   # factionId: ScientistsDecan
-  # maxMembers: 20
+  # bers: 20
   # managingRankId: 3
   # hierarchy:
      # 1: sci_decan
@@ -226,7 +226,7 @@
   # id: STSciRectorBand
   # name: ScientistsRector
   # factionId: ScientistsRector
-  # maxMembers: 20
+  # bers: 20
   # managingRankId: 3
   # hierarchy:
     # 1: sci_rector
